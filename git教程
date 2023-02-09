@@ -1,0 +1,10 @@
+1、git clone http://   克隆
+2、git status  查看仓库状态
+3、git add 文件名    提交文件到缓存区
+   git add .   所有修改了的文件提交到缓存区
+   git commit   提交到本地仓库
+4、git remote -v 相看远程仓库链接
+   git push  推送到远程仓库
+5、配置帐户，可在供献者中查看
+   git config --local user.name 'xiaoming' 
+   git config --local user.email 'xiaoming@126.com'
